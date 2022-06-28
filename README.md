@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @YaponEran 
 - 👀 I’m interested in Web dev
-- 🌱 I’m currently learning Ruby On rails
+- 🌱 Junior Ruby on rails level
 - 💞️ I’m looking to collaborate on ...
+- 💻 Middle javascript level
 - 📫 How to reach me ...
 
 <!---
